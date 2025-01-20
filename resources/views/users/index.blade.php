@@ -67,6 +67,7 @@
 
     {{-- Paginación --}}
     {!! $data->links('pagination::bootstrap-5') !!}
+    {!! $data->links('pagination::bootstrap-5'!!)}
 
 @stop
 
